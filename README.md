@@ -18,5 +18,5 @@ This project can be hosted using **GitHub Pages**:
 1. Go to **Settings → Pages → Source → main branch → / (root)**
 2. Save
 3. Your live URL will be:  
-`https://<your-username>.github.io/tic-tac-toe/`
+ https://anjali-25-web.github.io/Tic-Tac-Toe/
 
